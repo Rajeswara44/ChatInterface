@@ -18,17 +18,17 @@ Responsive UI – Clean and modern design using HTML5 & CSS3.
 📂 Project Structure
 project-folder/
 │
-├── index.html      # Main HTML file
-├── index.js        # JavaScript logic for chat
-├── index.css       # Styling for chat UI
-└── README.md       # Documentation
+├── index.html      
+├── index.js        
+├── index.css       
+└── README.md       
 
 ⚡ How to Run
 
 Clone or download the project.
 
-git clone https://github.com/your-username/single-user-chat.git
-cd single-user-chat
+git clone https://github.com/Rajeswara44/ChatInferface.git
+cd ChatInterface
 
 
 Open index.html in your browser.
